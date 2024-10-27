@@ -1,0 +1,22 @@
+{
+    "name": "gildeallianz-frontend",
+    "version": "1.0.0",
+    "description": "Frontend für Gildeallianz mit Vue.js",
+    "main": "src/main.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "axios": "^0.21.4",
+        "cors": "^2.8.5",
+        "vue": "^3.5.12",
+        "vue-router": "^4.0.0"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "^5.0.0"
+    },
+    "author": "Dein Name",
+    "license": "ISC"
+}

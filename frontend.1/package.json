@@ -1,0 +1,13 @@
+{
+  "name": "gildeallianz-backend",
+  "version": "1.0.0",
+  "type": "module", // Fügen Sie dies hinzu, wenn Sie ES-Module verwenden möchten
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" // Skript zum Starten des Servers
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.0"
+  }
+}
